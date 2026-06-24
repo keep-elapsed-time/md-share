@@ -1,0 +1,8 @@
+name = "md-share"
+main = "src/index.js"
+compatibility_date = "2024-01-01"
+
+[[kv_namespaces]]
+binding = "DOCS"
+id = "REPLACE_WITH_KV_ID"
+preview_id = "REPLACE_WITH_KV_PREVIEW_ID"

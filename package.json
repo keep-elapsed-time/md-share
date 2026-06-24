@@ -1,0 +1,15 @@
+{
+  "name": "md-share",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^3.0.0"
+  },
+  "dependencies": {
+    "marked": "^12.0.0"
+  }
+}
